@@ -1,0 +1,57 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "In the decimal 0.456, what is the place value of 5?",
+    "options": [
+      "Tenths",
+      "Hundredths",
+      "Thousandths",
+      "None of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2",
+    "question": "What is 0.25 equivalent to?",
+    "options": [
+      "0.025",
+      "0.205",
+      "0.250",
+      "0.0250"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Which of the following numbers is the largest:<br> 0.512, 0.521, 0.152, 5.12?",
+    "options": [
+      "0.512",
+      "0.521",
+      "0.152",
+      "5.12"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Calculate 0.045 + 0.006.",
+    "options": [
+      "0.051",
+      "0.41",
+      "0.0051",
+      "0.510"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q5",
+    "question": "Subtract 0.75 from 2.5.",
+    "options": [
+      "1.85",
+      "1.75",
+      "1.65",
+      "1.55"
+    ],
+    "correct": 1
+  }
+]
